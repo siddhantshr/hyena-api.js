@@ -25,7 +25,7 @@ npm i hyena-api.js
 To install from the master branch do this:
 
 ```
-To be filled
+npm install git://github.com/AHiddenDonut/hyena-api.js.git --save
 ```
 
 ## Examples
