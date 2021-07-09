@@ -1,0 +1,28 @@
+{
+  "name": "hyena-api.js",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for the hyena api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AHiddenDonut/hyena-api.js.git"
+  },
+  "keywords": [
+    "hyena-api",
+    "hyena-api-wrapper",
+    "api-wrapper",
+    "hyena"
+  ],
+  "author": "ahiddendonut",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AHiddenDonut/hyena-api.js/issues"
+  },
+  "homepage": "https://github.com/AHiddenDonut/hyena-api.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
